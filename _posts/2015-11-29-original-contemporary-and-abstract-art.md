@@ -9,10 +9,10 @@ publisher:
 keywords: []
 description: ''
 app_links: []
-isBasedOnUrl: 'http://www.aythora.com/#'
+isBasedOnUrl: 'http://www.aythora.com/#prettyPhoto[gal]/2/'
 title: Original Contemporary and Abstract Art
-datePublished: '2015-11-29T11:56:37.717Z'
-dateModified: '2015-11-29T11:51:40.090Z'
+datePublished: '2015-11-29T11:56:37.725Z'
+dateModified: '2015-11-29T11:52:41.428Z'
 sourcePath: _posts/2015-11-29-original-contemporary-and-abstract-art.md
 published: true
 inFeed: true
