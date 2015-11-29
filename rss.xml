@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jatin Aythora Abtract Art]]></title>
-        <description><![CDATA[Jatin Aythora Abtract Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Original Contemporary and Abstract Art]]></title>
+        <description><![CDATA[Original Contemporary and Abstract Art]]></description>
+        <link>https://thegrid.ai/jatin-aythora-abtract-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 11:42:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 11:56:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jatin-aythora-abtract-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Confluence]]></title>
+            <description><![CDATA[<article><h1>Confluence</h1><p>Beautiful confluence of bright colours flowing together on this abstract gives a unique and uplifting appeal. Lightly textured and hand scrapped colours using palette knife, with minimum use of paint brush reflects light beautifully. Bright yellow and orange blends the darker shades together giving freedom to flow.</p></article>]]></description>
+            <link>https://thegrid.ai/jatin-aythora-abtract-art/confluence/index.html</link>
+            <guid isPermaLink="false">a3513586-25ab-4189-95db-7dbeb9863c0c</guid>
+            <pubDate>Sun, 29 Nov 2015 11:56:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Triumph]]></title>
             <description><![CDATA[<h1>Triumph</h1>]]></description>
-            <link>undefinedtriumph/index.html</link>
+            <link>https://thegrid.ai/jatin-aythora-abtract-art/triumph/index.html</link>
             <guid isPermaLink="false">be0fd016-2fd2-412b-befe-f06cb0b5ef4e</guid>
             <pubDate>Sun, 29 Nov 2015 11:42:25 GMT</pubDate>
         </item>
