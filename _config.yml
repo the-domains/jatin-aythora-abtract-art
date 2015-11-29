@@ -1,6 +1,6 @@
 name: Jatin Aythora Abtract Art
 favicon: null
-layout_spectrum: 0.76962
+layout_spectrum: 1
 typography_spectrum: 0.53698
 title: Original Contemporary and Abstract Art
 cta:
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#242c31'
-    - '#9a9da0'
-    - '#51575b'
-    - '#c1c3c4'
-  brandStrength: 0.625
-  lightness: 0.625
+    - '#000508'
+    - '#9f9f9f'
+    - '#005c00'
+    - '#a5361a'
+  brandStrength: 0.1875
+  lightness: 0.6875
   saturation: 0.625
   rhythmicContrast: 0.75
 purpose: []
