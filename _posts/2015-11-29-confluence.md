@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Beautiful confluence of bright\_colours\_flowing together on this abstract gives a unique and uplifting appeal. Lightly textured and hand scrapped colours using palette\_knife, with minimum use of paint brush reflects light beautifully. Bright yellow and orange blends the darker shades together giving freedom to flow."
-datePublished: '2015-11-29T12:01:40.661Z'
-dateModified: '2015-11-29T12:01:34.401Z'
+datePublished: '2015-11-29T12:01:48.334Z'
+dateModified: '2015-11-29T12:01:43.172Z'
 title: Confluence
 author: []
 sourcePath: _posts/2015-11-29-confluence.md
